@@ -8,7 +8,7 @@
 
 I am currently working on:
 
-![Veloera/Veloera](https://gh-card.vercel.app/shared?username=veloera&repo=veloera&graphicType=flow&flowType=plus-levitated)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Veloera&repo=Veloera)](https://github.com/Veloera/Veloera)
 
 ###
 
